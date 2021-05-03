@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kendrick</h1>
 <h3 align="center">A passionate frontend developer from Hongkong</h3>
-<img src="https://i.imgur.com/WDWrBTO.jpg />
+<img src="https://i.imgur.com/WDWrBTO.jpg" />
 
 
 <h3 align="left">Languages and Tools:</h3>
